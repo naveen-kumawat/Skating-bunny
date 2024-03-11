@@ -30,7 +30,7 @@ Open the project in your preferred code editor and launch the live server.
 
 Project run successfully😍.
 
-![Untitled video - Made with Clipchamp](https://github.com/naveen-kumawat/Skating-bunny/assets/63699592/cba0282c-016f-4bb6-99be-42c2a5ec9c5e)
+![Skating Bunny](https://github.com/naveen-kumawat/Skating-bunny/assets/63699592/68e9759f-821b-4173-bbd9-68b1f3237866)
 
 
 ## Acknowledgements
