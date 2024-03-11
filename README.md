@@ -28,12 +28,13 @@ sass --watch bunny.scss:bunny.css
 ```
 Open the project in your preferred code editor and launch the live server.
 
-Please share you love to subscribe youtube channel:
-[![YouTube Logo](https://example.com/images/youtube_logo.png)](https://www.youtube.com/c/YourChannelName)
-
 Project run successfully😍.
 
 ![Skating Bunny](https://github.com/naveen-kumawat/Skating-bunny/assets/63699592/68e9759f-821b-4173-bbd9-68b1f3237866)
+
+### If you enjoy our content, please show your support by subscribing to our YouTube channel:
+[![YouTube Logo](https://example.com/images/youtube_logo.png)](https://www.youtube.com/c/YourChannelName)
+
 
 
 ## Acknowledgements
