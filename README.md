@@ -29,7 +29,7 @@ $ sass --watch bunny.scss:bunny.css
 Open the project in your preferred code editor and launch the live server.
 Project run successfully😍.
 Enjoy the skateboarding adventure by exploring the immersive 3D game created with HTML, CSS, and JavaScript.
-##Acknowledgements
+## Acknowledgements
 Feel free to reach out for any questions or feedback.
 Happy Skating!
 
