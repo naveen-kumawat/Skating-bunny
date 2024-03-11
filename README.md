@@ -24,7 +24,7 @@ npm i babel
 ### Map SCSS file to HTML:
 
 ```
-$ sass --watch bunny.scss:bunny.css
+sass --watch bunny.scss:bunny.css
 ```
 Open the project in your preferred code editor and launch the live server.
 
