@@ -34,7 +34,7 @@ Project run successfully😍.
 
 ### If you enjoy our content, please show your support by subscribing to our YouTube channel:
 <a href="https://www.youtube.com/c/YourChannelName">
-  <img src="https://github.com/naveen-kumawat/Skating-bunny/raw/main/assets/63699592/eda36daa-229b-4f90-8858-7b7253b83000.png" alt="YouTube Logo" width="100">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/572/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" alt="YouTube Logo" width="100">
 </a>
 
 
