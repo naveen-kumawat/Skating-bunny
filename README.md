@@ -30,6 +30,9 @@ Open the project in your preferred code editor and launch the live server.
 
 Project run successfully😍.
 
+![Untitled video - Made with Clipchamp](https://github.com/naveen-kumawat/Skating-bunny/assets/63699592/cba0282c-016f-4bb6-99be-42c2a5ec9c5e)
+
+
 ## Acknowledgements
 Enjoy the skateboarding adventure by exploring the immersive 3D game created with HTML, CSS, and JavaScript.
 
