@@ -10,23 +10,27 @@ Using This :
 ```
 git clone https://github.com/naveen-kumawat/Skating-bunny.git
 ```
-### Downlode Ruby 
+### Install SCSS compiler (Ruby gem): 
 Downlode Ruby for the SCSS using Git Bash in same Directory 
 ```
 npm install -g sass
 ```
-### Downlode Babel Js
+### Install Babel JS and other dependencies:
 Downlode Babel Js  in same root Directory 
 ```
 npm i babel
 ```
 
-### Map SCSS file with HTML
+### Map SCSS file to HTML:
 
 ```
 $ sass --watch bunny.scss:bunny.css
 ```
-Let's start live siver in vs code.
+Open the project in your preferred code editor and launch the live server.
 Project run successfully😍.
+Enjoy the skateboarding adventure by exploring the immersive 3D game created with HTML, CSS, and JavaScript.
+##Acknowledgements
+Feel free to reach out for any questions or feedback.
+Happy Skating!
 
 
