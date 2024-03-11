@@ -33,7 +33,9 @@ Project run successfully😍.
 ![Skating Bunny](https://github.com/naveen-kumawat/Skating-bunny/assets/63699592/68e9759f-821b-4173-bbd9-68b1f3237866)
 
 ### If you enjoy our content, please show your support by subscribing to our YouTube channel:
-[![YouTube Logo](https://github.com/naveen-kumawat/Skating-bunny/raw/main/assets/63699592/eda36daa-229b-4f90-8858-7b7253b83000.png =100x)](https://www.youtube.com/c/YourChannelName)
+<a href="https://www.youtube.com/c/YourChannelName">
+  <img src="https://github.com/naveen-kumawat/Skating-bunny/raw/main/assets/63699592/eda36daa-229b-4f90-8858-7b7253b83000.png" alt="YouTube Logo" width="100">
+</a>
 
 
 
