@@ -7,10 +7,10 @@ This repository contains examples and tutorials for the web technologies HTML, S
 Using This : 
 
 ```
-$ git clone https://github.com/naveen-kumawat/Skating-bunny.git
+git clone https://github.com/naveen-kumawat/Skating-bunny.git
 ```
 ### Downlode Ruby 
 Downlode Ruby for the SCSS
 ```
-$ npm install -g sass
+npm install -g sass
 ```
